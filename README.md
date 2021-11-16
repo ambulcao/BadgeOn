@@ -1,5 +1,10 @@
-# BadgeOn
+<h3>Badge Online of identification</h3>
 
-<h1>Badge Online of identification</h1>
+<ul>
+  <li>Html, Css, JavaScript</li>
+  <li>Cosumindo API</li>
+  <li>Fetch</li>
+  <li>Promises</li>
+</ul>
 
 <img src="images/BadgeOn.png" alt="BadgeOn"/>
